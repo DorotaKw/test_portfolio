@@ -14,7 +14,9 @@ Layout dla aplikacji stworzony jest w sposób chaotyczny i nieintuicyjny. Kontak
 4. Strona choć prosta, zecydowanie nieintuicyjna. Podzakładki mecze i raporty zawierają te same informacje, które mogłyby być skumulowane w jednej zakładce. W aplikacji zastosowano wiele ciekawych rozwiązań i ułatwień, nistety ich implementacja wymaga jeszcze dopracowania.
 5.
 * Link do kontaktu z teamem dev nie działa.
+
 Srodowisko: Google Chrome Wersja 112.0.5615.138
+
 Kroki do reprodukcji:
 1. Zalogowany użytkownik znajduje się na stronie głównej aplikacji.
 2. Użytkownik klika w aktywny link "DEV team contact"
@@ -30,6 +32,7 @@ Załącznik numer 1
 * Brak walidacji dla pola: "data urodzenia" w zakładce dodawanie nowego gracza
 
 Srodowisko: Google Chrome Wersja 112.0.5615.138
+
 Kroki do reprodukcji:
 1. Zalogowany użytkownik znajduje się na stronie głównej aplikacji.
 2. Użytkownik klika w aktywny link "dodaj nowego gracza"
@@ -46,6 +49,7 @@ Załącznik numer 2
 * Przyciski w aplikacji są w róznych językach
 
 Srodowisko: Google Chrome Wersja 112.0.5615.138
+
 Kroki do reprodukcji:
 1. Zalogowany użytkownik znajduje się na stronie głównej aplikacji.
 2. Użytkownik klika w aktywny link "dodaj nowego gracza"
@@ -62,6 +66,7 @@ Załącznik numer 3
 * Pole tekstowe telefon przyjmuje litery, znaki specjalne oraz zbyt długi ciąg znaków
 
 Srodowisko: Google Chrome Wersja 112.0.5615.138
+
 Kroki do reprodukcji:
 1. Zalogowany użytkownik znajduje się na stronie głównej aplikacji.
 2. Użytkownik klika w aktywny link "dodaj nowego gracza"
@@ -79,6 +84,7 @@ Załącznik numer 4
 * Pola tekstowe waga i wzrost przyjmują ujemne wartości
 
 Srodowisko: Google Chrome Wersja 112.0.5615.138
+
 Kroki do reprodukcji:
 1. Zalogowany użytkownik znajduje się na stronie głównej aplikacji.
 2. Użytkownik klika w aktywny link "dodaj nowego gracza"
@@ -96,6 +102,7 @@ Załącznik numer 5
 * Strona nieresponsywna dla zakładek mecze i raporty
 
 Srodowisko: Google Chrome Wersja 112.0.5615.138
+
 Kroki do reprodukcji:
 1. Zalogowany użytkownik znajduje się na stronie głównej aplikacji.
 2. W menu głównym użytkownik wybiera zakładkę "gracze" oraz gracze na przykład: Brzęczyszcykiewić
@@ -112,6 +119,7 @@ Załącznik numer 6
 * Parametry start i limit są przestarzałe
 
 Srodowisko: Google Chrome Wersja 112.0.5615.138
+
 Kroki do reprodukcji:
 1. Zalogowany użytkownik znajduje się na stronie głównej aplikacji
 2. w narzędziach developerskich użytkownich przechodzi do konsoli
@@ -126,7 +134,9 @@ W konsoli pojawiają się błedy i ostrzeżenia
 Załącznik numer 7
 
 * Nie działa przycisk clear przy edycji istniejacego gracza
+
 Srodowisko: Google Chrome Wersja 112.0.5615.138
+
 Kroki do reprodukcji:
 1. Zalogowany użytkownik znajduje się na stronie głównej aplikacji.
 2. W menu głównym użytkownik wybiera zakładkę "gracze" na przykład: Brzęczyszcykiewić
