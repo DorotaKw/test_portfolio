@@ -13,7 +13,7 @@ Layout dla aplikacji stworzony jest w sposób chaotyczny i nieintuicyjny. Kontak
 3. Pomysł aplikacji dla firmy skautingowej jest wartościowy. Apka jest prosta, ale jej interfejs pozostawia wiele do życzenia. Prawdopodobnie w teamie zabrakło ui designera, a szkoda.
 4. Strona choć prosta, zecydowanie nieintuicyjna. Podzakładki mecze i raporty zawierają te same informacje, które mogłyby być skumulowane w jednej zakładce. W aplikacji zastosowano wiele ciekawych rozwiązań i ułatwień, nistety ich implementacja wymaga jeszcze dopracowania.
 5.
-###* Link do kontaktu z teamem dev nie działa.
+### * Link do kontaktu z teamem dev nie działa.
 
 Srodowisko: Google Chrome Wersja 112.0.5615.138
 
