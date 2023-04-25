@@ -29,7 +29,11 @@ Użytkownik zostaje przeniesiony na stronę do logowania do aplikacji Slack.
 
 Załącznik numer 1
 
-* Brak walidacji dla pola: "data urodzenia" w zakładce dodawanie nowego gracza
+
+
+
+
+### * Brak walidacji dla pola: "data urodzenia" w zakładce dodawanie nowego gracza
 
 Srodowisko: Google Chrome Wersja 112.0.5615.138
 
@@ -46,7 +50,11 @@ Błędna data urodzenia zostaje zachowana. Możliwe jest także zachowanie daty 
 
 Załącznik numer 2
 
-* Przyciski w aplikacji są w róznych językach
+
+
+
+
+### * Przyciski w aplikacji są w róznych językach
 
 Srodowisko: Google Chrome Wersja 112.0.5615.138
 
@@ -63,7 +71,11 @@ Nazwy niektórych przycisków(buttonów) są po angielsku
 
 Załącznik numer 3
 
-* Pole tekstowe telefon przyjmuje litery, znaki specjalne oraz zbyt długi ciąg znaków
+
+
+
+
+### * Pole tekstowe telefon przyjmuje litery, znaki specjalne oraz zbyt długi ciąg znaków
 
 Srodowisko: Google Chrome Wersja 112.0.5615.138
 
@@ -81,7 +93,11 @@ Użytkownik w polu telefon może wpisać cokolwiek.
 
 Załącznik numer 4
 
-* Pola tekstowe waga i wzrost przyjmują ujemne wartości
+
+
+
+
+### * Pola tekstowe waga i wzrost przyjmują ujemne wartości
 
 Srodowisko: Google Chrome Wersja 112.0.5615.138
 
@@ -99,7 +115,11 @@ Możliwe jest dodanie ujemnej wagi i wzrostu
 
 Załącznik numer 5
 
-* Strona nieresponsywna dla zakładek mecze i raporty
+
+
+
+
+### * Strona nieresponsywna dla zakładek mecze i raporty
 
 Srodowisko: Google Chrome Wersja 112.0.5615.138
 
@@ -116,7 +136,11 @@ Strona nie jest dopasowana do urządzenia
 
 Załącznik numer 6
 
-* Parametry start i limit są przestarzałe
+
+
+
+
+### * Parametry start i limit są przestarzałe
 
 Srodowisko: Google Chrome Wersja 112.0.5615.138
 
@@ -133,7 +157,11 @@ W konsoli pojawiają się błedy i ostrzeżenia
 
 Załącznik numer 7
 
-* Nie działa przycisk clear przy edycji istniejacego gracza
+
+
+
+
+### * Nie działa przycisk clear przy edycji istniejacego gracza
 
 Srodowisko: Google Chrome Wersja 112.0.5615.138
 
