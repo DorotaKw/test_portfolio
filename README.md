@@ -177,3 +177,8 @@ Rzezywisty rezultat:
 Formularz edycji nie zostaje wyczyszczony
 
 Załacznik numer 8
+
+
+
+
+https://drive.google.com/drive/folders/1NhnSf70UaKHvdV6QoUy05Vro1hLqtCGx?hl=pl
