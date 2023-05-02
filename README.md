@@ -188,4 +188,8 @@ https://drive.google.com/drive/folders/1NhnSf70UaKHvdV6QoUy05Vro1hLqtCGx?hl=pl
 
 ## Subtask 3
 Głównym celem przypadku testowego jest upewnienie się, czy różne funkcje aplikacji działają zgodnie z oczekiwaniami. Pomaga testerowi zweryfikować, czy aplikacja jest wolna od wad i czy działa zgodnie z oczekiwaniami użytkowników końcowych. Do innych zalet zaliczamy:
-*  Zapewnienie dobrego pokrycia testowego
+*  Zapewnienie dobrego pokrycia testowego;
+*  Pomoc w poprawie jakości oprogramowania;
+*  mniejsze koszty utrzymania i wsparcia oprogramowania;
+*  weryfikacja czy oprogramowanie spełnia wymagania użytkownika końcowego.
+
