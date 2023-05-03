@@ -193,3 +193,7 @@ Głównym celem przypadku testowego jest upewnienie się, czy różne funkcje ap
 *  mniejsze koszty utrzymania i wsparcia oprogramowania;
 *  weryfikacja czy oprogramowanie spełnia wymagania użytkownika końcowego.
 
+https://drive.google.com/drive/folders/1-sOL111i5sx5EtUlRIDS5QPiUxwFOZSF?hl=pl
+
+### Zadanie dodatkowe w jira;)
+
