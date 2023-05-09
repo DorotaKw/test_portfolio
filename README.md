@@ -198,7 +198,7 @@ https://drive.google.com/drive/folders/1-sOL111i5sx5EtUlRIDS5QPiUxwFOZSF?hl=pl
 ### Zadanie dodatkowe w jira;)
 
 
-#Task 3
+# Task 3
 
 ## Subtask 2
 
