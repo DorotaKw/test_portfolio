@@ -206,7 +206,7 @@ https://drive.google.com/drive/folders/13NzlGnFR22o9mXPfMFG0n3q857smRcv3?hl=pl
 
 ## Subtask 3
 
-https://drive.google.com/drive/folders/1bMXTwa6bNQgH2xHZm0b9I1ULUFGaysQb?hl=pl
+https://drive.google.com/drive/folders/13LqbglRkXrvUIlx-3EaA9jkpzBBPgEAC?hl=pl
 
 
 
