@@ -209,4 +209,19 @@ https://drive.google.com/drive/folders/13NzlGnFR22o9mXPfMFG0n3q857smRcv3?hl=pl
 https://drive.google.com/drive/folders/13LqbglRkXrvUIlx-3EaA9jkpzBBPgEAC?hl=pl
 
 
+# Task 4
+
+## Subtask 2
+
+https://drive.google.com/drive/folders/1cuqwU0VZyCAZuguwERE1Qty3iIzUS0W_?hl=pl
+
+## Subtask 3
+
+* OLX jest serwisem ogłoszeniowym służącym do sprzedawania oraz kupowania towarów i usług. 
+* Użytkownikiem aplikacji jest sprzedający towar i usługi (osoba prywatna lub firma) oraz kupujący, którym także może być osoba prywatna lub firma.
+* Aplikacja jest przyjazna dla użytkownika. Interfejs jest czytelny i przejrzysty. Towary i usługi podzielone są na kategorie. W serwis wbudowana została także wyszukiwarka, która usprawnia przeszukiwanie tak wielu ogłoszeń. Za zakupy można zapłacić płatnościami online, a towar zamówić pocztą polską, kurierem, paczką do paczkomatu lub odebrać osobiście. Twórcy serwisu nieustannie pracują nad bezpieczeństwem zakupów swoich uzytkowników. Serwis więc stale się rozwija.
+* W aplikacji należy popracować nad filtrowaniem. Aktualnie filtrujemy po: najdroższym, najtańszym, najnowszym oraz tak zwany "wybór la Ciebie". Zabrakło tak podstawowego filtrowania jak po rzeczy nowe i używane.
+* W aplikacjach mobilnych, natywnych największą rolę odgrywa responsywność. Strona powinna być dostosowana do urzadzenia, na którym będzie wyśiwetlana, a mnogość takich urządzeń w tych czasach jest naprawdę duża. Osoba testująca kontroluje jakość wyświetlania treści, obrazów, linków oraz innych mediów. Czytelność względem rozmiarów ekranu, skrolowanie, padding, zmiany kolorów i podświetleń. Wyświetlana treść powinna być czytelna oraz a klikalne obszary posiadać odpowiedni rozmiar. 
+
+
 
