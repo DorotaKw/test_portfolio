@@ -242,7 +242,7 @@ https://drive.google.com/drive/folders/1cuqwU0VZyCAZuguwERE1Qty3iIzUS0W_?hl=pl
 
 * Wyświetl JEDYNIE tytuł i cenę filmów, które kosztują poniżej 7$
 
-![sql_4](https://github.com/DorotaKw/test_portfolio/assets/69016457/b061116d-5032-40c7-bcc5-6ead067945e7
+![sql_4](https://github.com/DorotaKw/test_portfolio/assets/69016457/f7640c5e-0606-4439-8402-1bc58bf84ae6)
 
 * Użyj operatora logicznego AND, aby wyświetlić aktorów o actor_id pomiędzy 4-7 (4 i 7 powinny się wyświetlać). NIE UŻYWAJ operatora BETWEEN.
 
