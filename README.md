@@ -264,7 +264,7 @@ https://drive.google.com/drive/folders/1cuqwU0VZyCAZuguwERE1Qty3iIzUS0W_?hl=pl
 
 ![sql_9](https://github.com/DorotaKw/test_portfolio/assets/69016457/4d1fb53c-dc8c-47e9-ab5e-4e110bf4311a)
 
-* Wyświetl wszystkie filmy, których cena wynosi powyżej 9$ oraz ich ID mieści się pomiędzy 2 i 8 movie_id.
+* Wyświetl wszystkie filmy, których cena wynosi powyżej 9$ oraz ich ID mieści się pomiędzy 2 i 8.
 
 ![sql_10](https://github.com/DorotaKw/test_portfolio/assets/69016457/2ae555b8-42a9-4b5f-880f-0c45e4446c0b)
 
