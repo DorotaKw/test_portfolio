@@ -231,3 +231,45 @@ https://drive.google.com/drive/folders/1cuqwU0VZyCAZuguwERE1Qty3iIzUS0W_?hl=pl
 * Wyświetl tabelę actors w kolejności alfabetycznej sortując po kolumnie surname.
 
 ![sql_1](https://github.com/DorotaKw/test_portfolio/assets/69016457/76f22d8b-7f97-411b-a49d-51610963265f)
+
+* Wyświetl film, który powstał w 2019 roku.
+
+![sql_2](https://github.com/DorotaKw/test_portfolio/assets/69016457/356c730d-a234-40cc-a5fc-4485c8f87713)
+
+* Wyświetl wszystkie filmy, które powstały między 1900, a 1999 rokiem.
+
+![sql_3](https://github.com/DorotaKw/test_portfolio/assets/69016457/3b33b85c-5063-4a36-93ac-5100a11439e3)
+
+* Wyświetl JEDYNIE tytuł i cenę filmów, które kosztują poniżej 7$
+
+![sql_4](https://github.com/DorotaKw/test_portfolio/assets/69016457/b061116d-5032-40c7-bcc5-6ead067945e7
+
+* Użyj operatora logicznego AND, aby wyświetlić aktorów o actor_id pomiędzy 4-7 (4 i 7 powinny się wyświetlać). NIE UŻYWAJ operatora BETWEEN.
+
+![sql_5](https://github.com/DorotaKw/test_portfolio/assets/69016457/d46ba5da-2ec4-4ad7-b59f-503f59401b56)
+
+* Wyświetl klientów o id 2,4,6 wykorzystaj do tego warunek logiczny.
+
+![sql_6](https://github.com/DorotaKw/test_portfolio/assets/69016457/1e9833a2-8324-4116-8452-f58bbee86727)
+
+*  Wyświetl klientów o id 1,3,5 wykorzystaj do tego operator IN.
+
+![sql_7](https://github.com/DorotaKw/test_portfolio/assets/69016457/8f37fa1e-da5a-4687-aaeb-3e9cabc13405)
+
+* Wyświetl dane wszystkich osób z tabeli ‘actors’, których imię zaczyna się od ciągu “An”.
+
+![sql_8](https://github.com/DorotaKw/test_portfolio/assets/69016457/8655b53d-b250-4d0a-8f2d-c12ff9f8a656)
+
+* Wyświetl dane klienta, który nie ma podanego adresu email.
+
+![sql_9](https://github.com/DorotaKw/test_portfolio/assets/69016457/4d1fb53c-dc8c-47e9-ab5e-4e110bf4311a)
+
+* Wyświetl wszystkie filmy, których cena wynosi powyżej 9$ oraz ich ID mieści się pomiędzy 2 i 8 movie_id.
+
+![sql_10](https://github.com/DorotaKw/test_portfolio/assets/69016457/2ae555b8-42a9-4b5f-880f-0c45e4446c0b)
+
+
+
+
+
+
