@@ -224,4 +224,10 @@ https://drive.google.com/drive/folders/1cuqwU0VZyCAZuguwERE1Qty3iIzUS0W_?hl=pl
 * W aplikacjach mobilnych, natywnych największą rolę odgrywa responsywność. Strona powinna być dostosowana do urzadzenia, na którym będzie wyśiwetlana, a mnogość takich urządzeń w tych czasach jest naprawdę duża. Osoba testująca kontroluje jakość wyświetlania treści, obrazów, linków oraz innych mediów. Czytelność względem rozmiarów ekranu, skrolowanie, padding, zmiany kolorów i podświetleń. Wyświetlana treść powinna być czytelna oraz a klikalne obszary posiadać odpowiedni rozmiar. 
 
 
+# Task 5
 
+## Subtask 3
+
+* Wyświetl tabelę actors w kolejności alfabetycznej sortując po kolumnie surname.
+
+![sql_1](https://github.com/DorotaKw/test_portfolio/assets/69016457/76f22d8b-7f97-411b-a49d-51610963265f)
