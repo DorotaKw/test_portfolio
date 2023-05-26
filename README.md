@@ -268,6 +268,17 @@ https://drive.google.com/drive/folders/1cuqwU0VZyCAZuguwERE1Qty3iIzUS0W_?hl=pl
 
 ![sql_10](https://github.com/DorotaKw/test_portfolio/assets/69016457/2ae555b8-42a9-4b5f-880f-0c45e4446c0b)
 
+## Task 6
+
+* Popełniłam błąd wpisując nazwisko Ani Miler – wpisałam Muler. Znajdź i zastosuj funkcję, która poprawi mój karkołomny błąd 🙈
+
+UPDATE customers
+SET surname = 'Miler'
+WHERE customer_id = 3
+
+![sql_11](https://github.com/DorotaKw/test_portfolio/assets/69016457/c2660f80-bfe6-45ba-a2bd-56755ced3ec3)
+
+* Pobrałam za dużo pieniędzy od klienta, który kupił w ostatnim czasie film o id 4. Korzystając z funkcji join sprawdź, jak ma na imię klient i jakiego ma maila. W celu napisania mu wiadomości o pomyłce fantastycznej szefowej
 
 
 
