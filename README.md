@@ -280,6 +280,69 @@ WHERE customer_id = 3
 
 * Pobrałam za dużo pieniędzy od klienta, który kupił w ostatnim czasie film o id 4. Korzystając z funkcji join sprawdź, jak ma na imię klient i jakiego ma maila. W celu napisania mu wiadomości o pomyłce fantastycznej szefowej
 
+SELECT name, email FROM sale JOIN customers ON customers.customer_id=sale.customer_id WHERE movie_id=4;
+
+![sql_12](https://github.com/DorotaKw/test_portfolio/assets/69016457/bb3fe68d-0eec-4958-8aa1-4804a688b780)
+
+* Na pewno zauważyłaś, że sprzedawca zapomniał wpisać emaila klientce Patrycji. Uzupełnij ten brak wpisując: pati@mail.com
+
+UPDATE customers
+SET email='pati@mail.com'
+WHERE name='Patrycja'
+
+![sql_13](https://github.com/DorotaKw/test_portfolio/assets/69016457/f5ab7613-0335-4edf-84a5-8e06adda8060)
+
+* . Dla każdego zakupu wyświetl, imię i nazwisko klienta, który dokonał wypożyczenia oraz tytuł wypożyczonego filmu. (wykorzystaj do tego funkcję inner join, zastanów się wcześniej, które tabele Ci się przydadzą do wykonania ćwiczenia).
+
+SELECT name, surname, title FROM sale INNER JOIN customers ON customers.customer_id=sale.customer_id INNER JOIN movies ON movies.movie_id=sale.movie_id;
+
+![sql_14](https://github.com/DorotaKw/test_portfolio/assets/69016457/2f0a29c5-e748-4c31-83f8-71c746d8d835)
+
+* W celu anonimizacji danych, chcesz stworzyć pseudonimy swoich klientów. - Dodaj kolumnę o nazwie ‘pseudonym’ do tabeli customer,- Wypełnij kolumnę w taki sposób, aby pseudonim stworzył się z dwóch pierwszych liter imienia i ostatniej litery nazwiska. Np. Natalie Pilling → Nag
+
+ALTER TABLE customers ADD COLUMN pseudonim varchar(3); UPDATE customers set pseudonim = concat(LEFT(name, 2), RIGHT(surname, 1))
+
+![sql_15](https://github.com/DorotaKw/test_portfolio/assets/69016457/79255353-7e96-406b-8f47-b243cac79830)
+
+* Wyświetl tytuły filmów, które zostały zakupione, wyświetl tabelę w taki sposób, aby tytuły się nie powtarzały.
+
+SELECT DISTINCT movies.title FROM movies INNER JOIN sale on sale.movie_id=movies.movie_id;
+
+![sql_16](https://github.com/DorotaKw/test_portfolio/assets/69016457/c0794c5e-efe6-4c5b-bbb6-c0de3dc1dd0e)
+
+* Wyświetl wspólną listę imion wszystkich aktorów i klientów, a wynik uporządkuj alfabetycznie. (Wykorzystaj do tego funkcji UNION)
+
+SELECT name FROM actors
+UNION
+SELECT name FROM customers
+ORDER BY name ASC
+
+![sql_17](https://github.com/DorotaKw/test_portfolio/assets/69016457/af270ed7-cce7-4b3a-bca6-274dfe5383aa)
+
+* Polskę opanowała inflacja i nasz sklepik z filmami również dotknął ten problem. Podnieś cenę wszystkich filmów wyprodukowanych po 2000 roku o 2,5 $ (Pamiętaj, że dolar to domyślna jednostka- nie używaj jej nigdzie)
+
+UPDATE movies 
+SET price=price+2.5 
+WHERE year_of_production>2000
+
+![sql_18](https://github.com/DorotaKw/test_portfolio/assets/69016457/c8dcea67-146d-4112-94a1-4a1caa72b95e)
+
+* Wyświetl imię i nazwisko aktora o id 4 i tytuł filmu, w którym zagrał
+
+SELECT actors.actor_id, actors.name, actors.surname, movies.title FROM actors, movies, cast WHERE movies.movie_id = cast.movie_id and actors.actor_id = "4" and cast.actor_id=actors.actor_id;
+
+![sql_19](https://github.com/DorotaKw/test_portfolio/assets/69016457/b556ba2c-1ad9-4702-89b9-70b876e53e59)
+
+* A gdzie nasza HONIA!? Dodaj do tabeli customers nową krotkę, gdzie customer_id = 7, name = Honia, surname = Stuczka-Kucharska, email = honia@mail.com oraz pseudonym = Hoa.
+
+INSERT INTO customers (customer_id, name, surname, email, pseudonym)
+VALUES ('7', 'Honia', 'Stuczka-Kucharska', 'honia@mail.com', 'Hoa')
+
+![sql_20](https://github.com/DorotaKw/test_portfolio/assets/69016457/617b1391-c735-4963-bce1-e49f85d177a1)
+
+
+
+
 
 
 
