@@ -270,6 +270,8 @@ https://drive.google.com/drive/folders/1cuqwU0VZyCAZuguwERE1Qty3iIzUS0W_?hl=pl
 
 ## Task 6
 
+# Subtask 1
+
 * Popełniłam błąd wpisując nazwisko Ani Miler – wpisałam Muler. Znajdź i zastosuj funkcję, która poprawi mój karkołomny błąd 🙈
 
 UPDATE customers
@@ -340,8 +342,11 @@ VALUES ('7', 'Honia', 'Stuczka-Kucharska', 'honia@mail.com', 'Hoa')
 
 ![sql_20](https://github.com/DorotaKw/test_portfolio/assets/69016457/617b1391-c735-4963-bce1-e49f85d177a1)
 
+# Subtask 2
 
+W quizie Ecru mój wynik to 14/15 poprawnych odpowiedzi.
 
+![quiz](https://github.com/DorotaKw/test_portfolio/assets/69016457/4d199442-f01e-45a9-a217-32e1ae5477d1)
 
 
 
